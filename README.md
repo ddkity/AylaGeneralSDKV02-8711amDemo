@@ -1,0 +1,2 @@
+# AylaGeneralSDKV02-8711amDemo
+用于对接AylaGeneralSDKV02的demo程序
